@@ -1,7 +1,7 @@
 # Snake-Game-Arduino
 
 SnakeGame-The game was created with following components:
--Arduino Uno
+\n -Arduino Uno
 -Breadboard
 -Joystick
 -Driver MAX7219
